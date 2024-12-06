@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.hamid</groupId>
     <artifactId>taco-cloud</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>taco-cloud</name>
     <description>taco-cloud</description>
     <url/>
